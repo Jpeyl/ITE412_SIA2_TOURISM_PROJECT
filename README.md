@@ -7,7 +7,7 @@
 - **Thristan Jay Tarinay** – Backend Developer  
 - **Jhon Paul Barit** – Frontend Developer  
 - **Lea Castillo** – Documentation & QA  
-
+Florilyn
 ###  Project Title
 **Local Tourism Portal**
 
